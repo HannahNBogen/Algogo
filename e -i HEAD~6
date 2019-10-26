@@ -1,0 +1,195 @@
+[33mcommit 7b4dfb61e0a1c553849a1e9a1f20d10a95763cfc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author:     Hannah Bogen <hannah.bogen@wsu.edu>
+AuthorDate: Fri Oct 25 18:53:46 2019 -0700
+Commit:     Hannah Bogen <hannah.bogen@wsu.edu>
+CommitDate: Fri Oct 25 18:53:46 2019 -0700
+
+    test2
+
+[33mcommit d62097bf06bb85cb0d3d77ccc8092b624146f3f9[m
+Author:     Hannah Bogen <hannah.bogen@wsu.edu>
+AuthorDate: Fri Oct 25 18:52:59 2019 -0700
+Commit:     Hannah Bogen <hannah.bogen@wsu.edu>
+CommitDate: Fri Oct 25 18:52:59 2019 -0700
+
+    test1
+
+[33mcommit 4fb87ff7b0052f352b5d8dd9a8053023f7f5bdf5[m
+Merge: b7c7820 40d8f5f
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Oct 24 00:02:08 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Oct 24 00:02:08 2019 +0200
+
+    Merge pull request #35 from Skyost/dependabot/gradle/org.json-json-20190722
+    
+    Bump json from 20180813 to 20190722
+
+[33mcommit b7c78205896304e2efc145f5c89676f8ef41bba4[m
+Merge: 1f7478d 5b4c20c
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Tue Oct 22 19:08:25 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Oct 22 19:08:25 2019 +0200
+
+    Merge pull request #52 from Skyost/dependabot/gradle/com.google.android.material-material-1.2.0-alpha01
+    
+    Bump material from 1.1.0-beta01 to 1.2.0-alpha01
+
+[33mcommit 5b4c20ce4db6719cc9530e3fd250c037c3b7d261[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Tue Oct 22 04:35:19 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Oct 22 04:35:19 2019 +0000
+
+    Bump material from 1.1.0-beta01 to 1.2.0-alpha01
+    
+    Bumps [material](https://github.com/material-components/material-components-android) from 1.1.0-beta01 to 1.2.0-alpha01.
+    - [Release notes](https://github.com/material-components/material-components-android/releases)
+    - [Commits](https://github.com/material-components/material-components-android/compare/1.1.0-beta01...1.2.0-alpha01)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 1f7478db8f4bf68a9d57ccd4305012471fb88678[m
+Merge: 80a3519 476b4ab
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Oct 10 12:18:38 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Oct 10 12:18:38 2019 +0200
+
+    Merge pull request #51 from Skyost/dependabot/gradle/ch.obermuhlner-big-math-2.2.1
+    
+    Bump big-math from 2.2.0 to 2.2.1
+
+[33mcommit 476b4ab6c65e918361971f7931faebc09b8ed64b[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Thu Oct 10 05:24:00 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Oct 10 05:24:00 2019 +0000
+
+    Bump big-math from 2.2.0 to 2.2.1
+    
+    Bumps [big-math](https://github.com/eobermuhlner/big-math) from 2.2.0 to 2.2.1.
+    - [Release notes](https://github.com/eobermuhlner/big-math/releases)
+    - [Commits](https://github.com/eobermuhlner/big-math/compare/v2.2.0...v2.2.1)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 80a35198502547697070284f8c9f9d3bae066c8f[m
+Merge: b320e9a e2f0bdb
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Wed Oct 9 18:14:40 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Wed Oct 9 18:14:40 2019 +0200
+
+    Merge pull request #49 from Skyost/dependabot/gradle/com.google.android.material-material-1.1.0-beta01
+    
+    Bump material from 1.1.0-alpha10 to 1.1.0-beta01
+
+[33mcommit b320e9a4b92484a54088678e8db3e6e5d4e52a4c[m
+Merge: fda811d d330e14
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Wed Oct 9 18:14:33 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Wed Oct 9 18:14:33 2019 +0200
+
+    Merge pull request #50 from Skyost/dependabot/gradle/com.leinardi.android-speed-dial-3.1.1
+    
+    Bump speed-dial from 3.1.0 to 3.1.1
+
+[33mcommit d330e145326bb2edf1023508c2eebd24a6b5abe0[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Tue Oct 8 05:09:24 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Oct 8 05:09:24 2019 +0000
+
+    Bump speed-dial from 3.1.0 to 3.1.1
+    
+    Bumps [speed-dial](https://github.com/leinardi/FloatingActionButtonSpeedDial) from 3.1.0 to 3.1.1.
+    - [Release notes](https://github.com/leinardi/FloatingActionButtonSpeedDial/releases)
+    - [Changelog](https://github.com/leinardi/FloatingActionButtonSpeedDial/blob/release/CHANGELOG.md)
+    - [Commits](https://github.com/leinardi/FloatingActionButtonSpeedDial/compare/3.1.0...3.1.1)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit e2f0bdba059b83948b0e701dbb98ed2b109b8e05[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Mon Oct 7 04:35:49 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Mon Oct 7 04:35:49 2019 +0000
+
+    Bump material from 1.1.0-alpha10 to 1.1.0-beta01
+    
+    Bumps [material](https://github.com/material-components/material-components-android) from 1.1.0-alpha10 to 1.1.0-beta01.
+    - [Release notes](https://github.com/material-components/material-components-android/releases)
+    - [Commits](https://github.com/material-components/material-components-android/compare/1.1.0-alpha10...1.1.0-beta01)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit fda811d5cfb389a82b38ed1a05f5ea4b881ef48b[m
+Merge: 237558b 4b1d29e
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Oct 3 13:35:31 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Oct 3 13:35:31 2019 +0200
+
+    Merge pull request #48 from Skyost/dependabot/gradle/com.android.tools.build-gradle-3.5.1
+    
+    Bump gradle from 3.5.0 to 3.5.1
+
+[33mcommit 4b1d29e412297cf216c11b58ebe624272aec7175[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Thu Oct 3 05:20:31 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Oct 3 05:20:31 2019 +0000
+
+    Bump gradle from 3.5.0 to 3.5.1
+    
+    Bumps gradle from 3.5.0 to 3.5.1.
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 237558b7a6bdee348aeeb7c6e0701818c4637f90[m
+Merge: b0fef0a 6be1151
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Sep 26 14:31:36 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Sep 26 14:31:36 2019 +0200
+
+    Merge pull request #46 from Skyost/dependabot/gradle/com.fifesoft-rsyntaxtextarea-3.0.4
+    
+    Bump rsyntaxtextarea from 3.0.3 to 3.0.4
+
+[33mcommit 6be11518fc5f3da02d83a4b566e21d818d29b819[m
+Merge: db00c49 b0fef0a
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Sep 26 14:31:27 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Sep 26 14:31:27 2019 +0200
+
+    Merge branch 'master' into dependabot/gradle/com.fifesoft-rsyntaxtextarea-3.0.4
+
+[33mcommit b0fef0a6eba6280d3c9cda9cc5404d18330f717d[m
+Merge: 066dbe4 754ec1c
+Author:     Hugo Delaunay <Skyost@users.noreply.github.com>
+AuthorDate: Thu Sep 26 14:30:37 2019 +0200
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Sep 26 14:30:37 2019 +0200
+
+    Merge pull request #47 from Skyost/dependabot/gradle/com.fifesoft-autocomplete-3.0.2
+    
+    Bump autocomplete from 3.0.1 to 3.0.2
+
+[33mcommit 754ec1cee94a48eaf8a78744d72939aaa874095d[m
+Author:     dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+AuthorDate: Thu Sep 26 04:26:57 2019 +0000
+Commit:     GitHub <noreply@github.com>
+CommitDate: Thu Sep 26 04:26:57 2019 +0000
+
+    Bump autocomplete from 3.0.1 to 3.0.2
+    
+    Bumps [autocomplete](https://github.com/bobbylight/AutoComplete) from 3.0.1 to 3.0.2.
+    - [Release notes](https://github.com/bobbylight/AutoComplete/releases)
+    - [Commits](https://github.com/bobbylight/AutoComplete/compare/3.0.1...3.0.2)
+    
+    Signed-of
